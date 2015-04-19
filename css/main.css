@@ -374,7 +374,7 @@ body {
     max-width: 700px; }
 
 .content-block {
-  padding: 200px 20px; }
+  padding: 50px 20px; }
   .content-block::after {
     clear: both;
     content: "";
@@ -403,6 +403,7 @@ img {
   height: auto; }
 
 .three-col {
+  padding: 50px 0;
   float: left;
   display: block;
   margin-right: 2.3576515979%;

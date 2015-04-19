@@ -25,7 +25,7 @@ body {
 
 .content-block {
     @include clearfix;
-    padding: 200px 20px;
+    padding: 50px 20px;
 }
 
 header {
@@ -50,5 +50,6 @@ img {
 
 //3 col grid
 .three-col {
+    padding: 50px 0;
     @include span-columns(4);
 }
